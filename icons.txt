@@ -1,0 +1,26 @@
+<i class="far fa-address-card"></i> About me Icon
+
+<i class="far fa-laptop-code"></i> School Icon
+
+<i class="fab fa-envira"></i> Gallery Icon
+
+<i class="fas fa-film"></i> Videos Icon
+
+<i class="fas fa-home"></i> Home Icon
+
+<i class="fas fa-briefcase"></i> Work Icon
+
+<i class="fas fa-angle-double-right"></i> Logo Icon
+
+
+
+Example to use Icons.
+<a href="home.html">Home
+        <span class = "link-text">
+             <i class="fas fa-laptop-code"></i>
+        </span>
+</a>
+
+
+Script to use icons 
+<script src="https://kit.fontawesome.com/676f8f5b34.js" crossorigin="anonymous"></script>

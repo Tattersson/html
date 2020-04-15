@@ -1,0 +1,52 @@
+NAVBAR NEEDS A SCRIPT!!! (For icons and logos)
+<script src="https://kit.fontawesome.com/676f8f5b34.js" crossorigin="anonymous"></script>
+
+
+<nav class="navbar">
+        <ul class="navbar-nav">
+            <li class="logo">
+                <a href="#" class="nav-link">
+                    <span class="link-text">Tatuppa</span>
+                <i class="fas fa-angle-double-right"></i>
+                        
+                </a>
+            </li>
+           <li class="nav-item">
+               
+                <a href="home.html" class ="nav-link">
+                    <i class="fas fa-home"></i>
+                        <span class = "link-text">Home</span>           
+                </a>
+               
+               <a href="work.html" class ="nav-link">
+                    <i class="fas fa-briefcase"></i>
+                        <span class = "link-text">Work</span>           
+                </a>
+               
+               <a href="school.html" class ="nav-link">
+                    <i class="fas fa-laptop-code"></i>
+                        <span class = "link-text">School</span>           
+                </a>
+               
+               <a href="gallery.html" class ="nav-link">
+                    <i class="fab fa-envira"></i>
+                        <span class = "link-text">Gallery</span>           
+                </a>
+               
+               <a href="videos.html" class ="nav-link">
+                    <i class="fas fa-film"></i>
+                        <span class = "link-text">Videos</span>           
+                </a>
+               
+               <a href="aboutme.html" class ="nav-link">
+                    <i class="far fa-address-card"></i>
+                        <span class = "link-text">About Me</span>           
+                </a>
+               
+            
+            </li>         
+           </ul>
+        </nav>
+        
+        
+        
