@@ -38,8 +38,6 @@ main{
 
 .bg-img{
     background-image:url(../img/bg/cmprs/computer.jpg);
-    filter:blur(5px);
-    -webkit-filter: blur(5px);
     height:100%;
     background-position: center;
     background-repeat:round;
@@ -50,8 +48,8 @@ main{
     margin: 0;
     width: 10rem;
     list-style: none;
-    flex-direction: row;
     display: flex;
+    flex-direction: row;
     align-items: center;
     padding: 0;
     text-decoration: none;
