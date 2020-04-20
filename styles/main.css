@@ -15,6 +15,8 @@ h1 , h2 , h3 , h4 , h5, h6{
 p{
    text-align: justify;
     text-justify: inter-word;
+    margin: 2em;
+    border-bottom: 2px solid #2574af;
 }
 main{
     background-color: rgb(0,0,0); 
@@ -31,11 +33,9 @@ main{
     padding: 20px;
     
     border-top-left-radius: 40px;
-    border-bottom-right-radius: 40px;
-   
-    
-    
+    border-bottom-right-radius: 40px; 
 }
+
 .bg-img{
     background-image:url(../img/bg/cmprs/computer.jpg);
     filter:blur(5px);
@@ -45,7 +45,9 @@ main{
     background-repeat:round;
     background-size: cover;
 }
-
-
+.link-text2{
+    font: fantasy;
+    
+}
 
 
